@@ -1,0 +1,23 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "random": "c",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "unordered_set": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp"
+    }
+}
